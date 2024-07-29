@@ -1,0 +1,19 @@
+{
+  "name": "hubspot",
+  "version": "1.0.0",
+  "description": "HubSpot Coding Challenge",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "bent": "^7.3.12",
+    "core-js": "^3.37.1"
+  }
+}
